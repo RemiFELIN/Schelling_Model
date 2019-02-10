@@ -1,7 +1,7 @@
 # Schelling_Model
 Il s'agit d'une simulation du modèle de ségrégation de Schelling
 
-*Cette simulation a pour but de montrer que des structures résidentielles ségrégationnistes pouvaient apparaître même si les préférences des habitants étaient compatibles avec une structure intégrée des populations, ce qui est le cas avec des préférences faibles, comme par exemple : " j'accepte d'habiter avec un voisinage majoritairement différent de moi, sauf si je suis trop minoritaire".*
+> *Cette simulation a pour but de montrer que des structures résidentielles ségrégationnistes pouvaient apparaître même si les préférences des habitants étaient compatibles avec une structure intégrée des populations, ce qui est le cas avec des préférences faibles, comme par exemple : " j'accepte d'habiter avec un voisinage majoritairement différent de moi, sauf si je suis trop minoritaire".*
 
 Ici, on considère 3 types de populations. En fonction de la tolérance choisie, nous aurons un état final, sinon on obtient un cycle sans fin.
 
